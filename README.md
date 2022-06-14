@@ -1,2 +1,2 @@
 # Fullzcript-V1-Terminal
-Um projeto de terminal criado pra um os se chamado Fullzcript OS
+ola bem vindo ao terminal do Fullzcript OS este terminal foi feito pra o sistema operacional FullzCript OS leia mais no repositorio Fullzcript OS V1
